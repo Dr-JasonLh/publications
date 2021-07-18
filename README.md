@@ -1,22 +1,21 @@
-AAAI - [Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)
-ASLPOS 
-ASP-DAC
-ASP-DAC
-ASPLOS
-BMVC
-Book
-DAC
-DATE
-ECCV
-ICCAD
-ICCD
-ICDATA
-ICIP
-ICLR
-ICML
-IJCAI
-ISCA
-JMLR
-KDD
-NIPS
-UAI
+AAAI - [Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)  
+ASLPOS - []()  
+ASP-DAC - []()  
+ASPLOS - [Architectural Support for Programming Languages and Operating Systems]()  
+BMVC - []()  
+Book - []()  
+DAC - []()  
+DATE - [Design Automation and Test in Europe](https://www.date-conference.com/)  
+ECCV - []()  
+ICCAD - []()  
+ICCD - []()  
+ICDATA - []()  
+ICIP - []()  
+ICLR - [International Conference on Learning Representations](https://iclr.cc/)  
+ICML - [International Conference on Machine Learning](https://icml.cc/)  
+IJCAI - [International Joint Conferences on Artificial Intelligence](https://www.ijcai.org/)  
+ISCA - []()  
+JMLR - []()  
+KDD - []()  
+NIPS - []()  
+UAI - []()  
